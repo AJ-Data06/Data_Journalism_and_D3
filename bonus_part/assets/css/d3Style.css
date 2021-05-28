@@ -12,27 +12,12 @@
   text-anchor: middle;
 }
 
-.Yactive{
-  font-weight: bold;
-  fill: #000;
-  transition: fill 0.3s ease-out;
-  text-anchor: middle;
-}
-
 .inactive {
   font-weight: lighter;
   fill: #c9c9c9;
   transition: fill 0.3s ease-out;
   text-anchor: middle;
 }
-
-.Yinactive{
-  font-weight: lighter;
-  fill: #c9c9c9;
-  transition: fill 0.3s ease-out;
-  text-anchor: middle;
-}
-
 
 .inactive:hover {
   fill: #000;
